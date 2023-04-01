@@ -1,0 +1,15 @@
+C:\Users\neuer\Desktop\BMI-CalcC#\bin\Debug\net7.0\BMI-CalcC#.exe
+C:\Users\neuer\Desktop\BMI-CalcC#\bin\Debug\net7.0\BMI-CalcC#.deps.json
+C:\Users\neuer\Desktop\BMI-CalcC#\bin\Debug\net7.0\BMI-CalcC#.runtimeconfig.json
+C:\Users\neuer\Desktop\BMI-CalcC#\bin\Debug\net7.0\BMI-CalcC#.dll
+C:\Users\neuer\Desktop\BMI-CalcC#\bin\Debug\net7.0\BMI-CalcC#.pdb
+C:\Users\neuer\Desktop\BMI-CalcC#\obj\Debug\net7.0\BMI-CalcC#.csproj.AssemblyReference.cache
+C:\Users\neuer\Desktop\BMI-CalcC#\obj\Debug\net7.0\BMI-CalcC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neuer\Desktop\BMI-CalcC#\obj\Debug\net7.0\BMI-CalcC#.AssemblyInfoInputs.cache
+C:\Users\neuer\Desktop\BMI-CalcC#\obj\Debug\net7.0\BMI-CalcC#.AssemblyInfo.cs
+C:\Users\neuer\Desktop\BMI-CalcC#\obj\Debug\net7.0\BMI-CalcC#.csproj.CoreCompileInputs.cache
+C:\Users\neuer\Desktop\BMI-CalcC#\obj\Debug\net7.0\BMI-CalcC#.dll
+C:\Users\neuer\Desktop\BMI-CalcC#\obj\Debug\net7.0\refint\BMI-CalcC#.dll
+C:\Users\neuer\Desktop\BMI-CalcC#\obj\Debug\net7.0\BMI-CalcC#.pdb
+C:\Users\neuer\Desktop\BMI-CalcC#\obj\Debug\net7.0\BMI-CalcC#.genruntimeconfig.cache
+C:\Users\neuer\Desktop\BMI-CalcC#\obj\Debug\net7.0\ref\BMI-CalcC#.dll
